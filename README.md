@@ -1,0 +1,1 @@
+Here i made a tip calculator for no intented purpose,
